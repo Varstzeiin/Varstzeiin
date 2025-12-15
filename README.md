@@ -1,8 +1,8 @@
 # 💫 About Me:
 ## 👋 Hi, I'm Vito
 <br> <br>
-### Data Science undergraduate with strong hands-on experience in **NLP system development, model deployment, and production-grade API services**.<br> I’m currently working as a **Data Science Intern**, where I build and deploy end-to-end NLP pipelines, from data preprocessing and model inference to **FastAPI services, ONNX optimization, and server level performance testing**.
-<br><br>
+Data Science undergraduate with strong hands-on experience in **NLP system development, model deployment, and production-grade API services**.<br> I’m currently working as a **Data Science Intern**, where I build and deploy end-to-end NLP pipelines, from data preprocessing and model inference to **FastAPI services, ONNX optimization, and server level performance testing**.
+<br>
 ### 🔍 What I Work On<br>
 - **NLP & Information Extraction**<br>
 - Named Entity Recognition (NER) for Indonesian online-media data<br> 
