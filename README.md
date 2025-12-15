@@ -12,7 +12,7 @@ I’m currently working as a **Data Science Intern**, where I build and deploy e
 - **Languages**: Python  <br>- **ML / NLP**: Transformers, IndoBERT, ONNX Runtime  <br>- **Backend**: FastAPI, Uvicorn, Gunicorn  <br>- **Data**: Pandas, NumPy  <br>- **Dev & Ops**: Linux, PM2, Docker (basic), Git  <br>- **Testing**: Locust, custom benchmarking scripts  <br><br>
 <br><br>
 ### 🧠 How I Think
-<br>I enjoy working on problems where **model accuracy alone is not enough** —  <br>I care about:<br>- latency vs throughput trade-offs<br>- scalability and robustness<br>- how models behave under real traffic<br><br>I believe a good data scientist should understand **both the model and the system that runs it**.<br><br>
+<br>I enjoy working on problems where **model accuracy alone is not enough** <br>I care about:<br>- latency vs throughput trade-offs<br>- scalability and robustness<br>- how models behave under real traffic<br><br>I believe a good data scientist should understand **both the model and the system that runs it**.<br><br>
 
 ### 📌 Beyond Tech<br>I also run a small creative business in photography & visual services, which trains my:<br>- product thinking<br>- communication with non-technical clients<br>- practical problem-solving mindset<br><br>
 
