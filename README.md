@@ -6,15 +6,38 @@ I’m currently working as a **Data Science Intern**, where I build and deploy e
 
 <br><br>
 ### 🔍 What I Work On<br>
-- **NLP & Information Extraction**<br>  - Named Entity Recognition (NER) for Indonesian online-media data<br>  - Speaker–Statement extraction (WHO speaks, says what, about whom)<br>  - Sentiment analysis & structured text analytics<br><br>- **Model Deployment & Optimization**<br>  - FastAPI + Uvicorn + Gunicorn<br>  - ONNX Runtime (CPU & GPU)<br>  - Concurrency control, micro-batching, and request optimization<br>  - Stress testing with Locust & custom load-test scripts<br><br>- **Data Engineering Mindset**<br>  - Clean input–output contracts (JSON schemas)<br>  - Reproducible pipelines<br>  - Performance-aware system design
+- **NLP & Information Extraction**<br>
+- Named Entity Recognition (NER) for Indonesian online-media data<br> 
+- Speaker–Statement extraction (WHO speaks, says what, about whom)<br>
+- Sentiment analysis & structured text analytics<br><br>
+- **Model Deployment & Optimization**<br> 
+- FastAPI + Uvicorn + Gunicorn<br>
+- ONNX Runtime (CPU & GPU)<br>
+- Concurrency control, micro-batching, and request optimization<br>
+- Stress testing with Locust & custom load-test scripts<br><br>
+- **Data Engineering Mindset**<br>  - Clean input–output contracts (JSON schemas)<br>
+- Reproducible pipelines<br>
+- Performance-aware system design
 
 ### ⚙️ Tech Stack<br>
-- **Languages**: Python  <br>- **ML / NLP**: Transformers, IndoBERT, ONNX Runtime  <br>- **Backend**: FastAPI, Uvicorn, Gunicorn  <br>- **Data**: Pandas, NumPy  <br>- **Dev & Ops**: Linux, PM2, Docker (basic), Git  <br>- **Testing**: Locust, custom benchmarking scripts  <br><br>
+- **Languages**: Python  <br>
+- **ML / NLP**: Transformers, IndoBERT, ONNX Runtime  <br>
+- **Backend**: FastAPI, Uvicorn, Gunicorn  <br>
+- **Data**: Pandas, NumPy  <br>
+- **Dev & Ops**: Linux, PM2, Docker (basic), Git  <br>
+- **Testing**: Locust, custom benchmarking scripts  <br><br>
 <br><br>
 ### 🧠 How I Think
-<br>I enjoy working on problems where **model accuracy alone is not enough** <br>I care about:<br>- latency vs throughput trade-offs<br>- scalability and robustness<br>- how models behave under real traffic<br><br>I believe a good data scientist should understand **both the model and the system that runs it**.<br><br>
+<br>I enjoy working on problems where **model accuracy alone is not enough** <br>I care about:<br>
+- latency vs throughput trade-offs<br>
+- scalability and robustness<br>
+- how models behave under real traffic<br><br>I believe a good data scientist should understand **both the model and the system that runs it**.<br><br>
 
-### 📌 Beyond Tech<br>I also run a small creative business in photography & visual services, which trains my:<br>- product thinking<br>- communication with non-technical clients<br>- practical problem-solving mindset<br><br>
+### 📌 Beyond Tech<br>I also run a small creative business in photography & visual services, which trains my:<br>
+- product thinking<br>
+- communication with non-technical clients<br>
+- practical problem
+- solving mindset<br><br>
 
 <br><br>
 📫 Feel free to explore my repositories or reach out if you’re interested in **NLP systems, data products, or applied machine learning**.<br>
