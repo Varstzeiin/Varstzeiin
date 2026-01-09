@@ -3,6 +3,8 @@
 # 💫 About Me:
 ## 👋 Hi, I'm Vito
 
+</div>
+
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20GitHub&fontSize=30&fontColor=fff&animation=fadeIn"/> </div>
